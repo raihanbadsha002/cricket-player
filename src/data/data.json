@@ -1,0 +1,105 @@
+[{
+    "id": 1,
+    "image": "https://i.ibb.co/9GTKDRv/Indian.jpg",
+    "name": "Virat Kohli ",
+    "team": "India",
+    "salary": 192491.30
+  },
+   {
+    "id": 2,
+    "image": "https://i.ibb.co/LZ42bdy/MS-Dhoni.jpg",
+    "name": "MS Dhoni ",
+    "team": "India",
+    "salary": 169845.26
+  },
+   {
+    "id": 3,
+    "image": "https://i.ibb.co/NrW5Mrq/images.jpg",
+    "name": "Mashrafe Mortaza ",
+    "team": "Bangladesh",
+    "salary": 60916.67
+  },
+   {
+    "id": 4,
+    "image": "https://i.ibb.co/9brfpV2/Shakib-Al-Hasan-ODI-150x150.jpg",
+    "name": "Shakib Al Hasan ",
+    "team": "Bangladesh",
+    "salary": 5841.67
+  },
+   {
+    "id": 5,
+    "image": "https://i.ibb.co/CtzHwfh/stokes.jpg",
+    "name": "Ben Stokes ",
+    "team": "England",
+    "salary": 163618.79
+  },
+   {
+    "id": 6,
+    "image": "https://i.ibb.co/tcvwv2Y/tamim-iqbal.jpg",
+    "name": "Tamim Iqbal ",
+    "team": "Bangladesh",
+    "salary": 5841.67
+  },
+   {
+    "id": 7,
+    "image": "https://i.ibb.co/grBdvSp/Steve-Smith.jpg",
+    "name": "Steve Smith ",
+    "team": "Australia",
+    "salary": 141537.72
+  },
+   {
+    "id": 8,
+    "image": "https://i.ibb.co/rbpvv4s/Kane-Williamson.jpg",
+    "name": "Kane Williamson ",
+    "team": "New Zealand",
+    "salary": 143618.50
+  },
+   {
+    "id": 9,
+    "image": "https://i.ibb.co/6ZCRsmR/david-warner.jpg",
+    "name": "David Warner ",
+    "team": "Australia",
+    "salary": 141537.72
+  },
+   {
+    "id": 10,
+    "image": "https://i.ibb.co/GFF5n5H/Mahmudullah.jpg",
+    "name": "Mahmudullah ",
+    "team": "Bangladesh",
+    "salary": 6091.67
+  },
+   {
+    "id": 11,
+    "image": "https://i.ibb.co/QcbJb7b/rashid-khan.jpg",
+    "name": "Rashid Khan ",
+    "team": "Afghanistan",
+    "salary": 154821.78
+  },
+   {
+    "id": 12,
+    "image": "https://i.ibb.co/wBx39PY/Shahid-Afridi.jpg",
+    "name": "Shahid Afridi ",
+    "team": "Pakistan",
+    "salary": 400000
+  },
+   {
+    "id": 13,
+    "image": "https://i.ibb.co/TcNKTsg/chris-gayle.jpg",
+    "name": "Chris Gayle ",
+    "team": "Jamaican",
+    "salary": 625000
+  },
+   {
+    "id": 14,
+    "image": "https://i.ibb.co/JBwfW8V/mqr.jpg",
+    "name": "Mushfiqur Rahim ",
+    "team": "Bangladesh",
+    "salary": 5841.67
+  },
+   {
+    "id": 15,
+    "image": "https://i.ibb.co/gM70ksJ/Dwayne-Bravo.jpg",
+    "name": "Dwayne Bravo ",
+    "team": "Trinidadian ",
+    "salary": 1000000
+  }]
